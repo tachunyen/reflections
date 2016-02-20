@@ -15,3 +15,9 @@ file1, add file1 to the staging area, then work on file2. I can imagine while
 working on file2, I might come across areas I would like to change in file1. By
 using the staging area, I can make sure commits are only made for significant
 changes.
+
+What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
+
+Branches would be very helpful for experimental features that I might not
+want to add to the master branch until it is mature.
