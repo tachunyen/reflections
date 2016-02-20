@@ -21,3 +21,7 @@ organized? How would branches help?
 
 Branches would be very helpful for experimental features that I might not
 want to add to the master branch until it is mature.
+
+How do the diagrams help you visualize the branch structure?
+
+Diagrams always makes it easier to visualize.
