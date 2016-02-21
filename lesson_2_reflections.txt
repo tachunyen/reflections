@@ -31,4 +31,12 @@ the diagram the way we do?
 
 When two branches are merged together, changes are folded into the existing
 branch. The diagram illustrates how commits to the two branches can still be
-assessed.
+accessed.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges
+manually?
+
+pros: faster
+
+cons: Git might make the wrong merging decision and you could end up with
+strange behaviors or code that does not compile.
