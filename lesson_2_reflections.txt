@@ -66,3 +66,6 @@ git merge branch1 branch2  |    Merge two branches, branch2 get merged into
 git branch -d name  |    Remove the branch with the specified name
 git show commitId  |    Show the changes made in this commit compared to the
                         previous version. This is working even after merging.
+git remote -v  |   Show remote repository in verbose mode
+git remote add <new_remote> url   |   Add new remote, eg. origin
+git push <remote> <local>   |   Push local repository to remote repository
