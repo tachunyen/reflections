@@ -6,3 +6,11 @@ automatically stay up-to-date with your remote repository?
   Having Git automatically stay up-to-date with the remote repository might
   cause undesired changes to be saved. Manually pulling changes prevents that,
   sort of like the staging area.
+
+Describe the differences between forks, clones, and branches.
+When would you use one instead of another?
+  Forks are like clones but exist remotely within Github only. Clones are
+  local copies of a repository while branches exist within a repository.
+  Using forks instead of clones on a remote repository allows collaborators
+  to work on the particular fork easily. Branches are for testing code or
+  feature within a project.
