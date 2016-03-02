@@ -17,3 +17,9 @@ When would you use one instead of another?
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
   Allows you to work offline.
+
+How would you collaborate without using Git or GitHub? What would be easier,
+and what would be harder?
+  I would use Dropbox. Easier if I am the only one working on a file, but
+  changes are not tracked. It would be harder if more than one person needs
+  to work on the same file.
